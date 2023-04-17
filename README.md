@@ -1,5 +1,4 @@
-# Application-Projects
-Project Name: YardAtYourHouse
+# YardAtYourHouse
 
 YardAtYourHouse is a program designed to help clients purchase landscapes for their yards. It provides clients with a choice between a grass or gravel yard and displays
 the price per square foot for each type.
